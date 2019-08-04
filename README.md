@@ -1,2 +1,2 @@
 # nodemongocompose
-Simple backend, frontend, db with docker compose
+Simple backend, frontend, db (mongodb) with docker compose
